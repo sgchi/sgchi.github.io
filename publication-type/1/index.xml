@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Seunggeun Chi</title>
+    <link>https://sgchi.github.io/publication-type/1/</link>
+      <atom:link href="https://sgchi.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sgchi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://sgchi.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>InfoGCN: Representation Learning for Human Skeleton-based Action Recognition</title>
+      <link>https://sgchi.github.io/publication/cvpr22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://sgchi.github.io/publication/cvpr22/</guid>
+      <description>&lt;p&gt;In &lt;em&gt;proceedings of the IEEE Conference on Computer Vision and Pattern Recognition&lt;/em&gt; (CVPR), 2022&lt;/p&gt;
+&lt;!--Create your slides in Markdown - click the *Slides* button to check out the example.--&gt;
+&lt;!--#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evolutionary meta reinforcement learning for portfolio optimization</title>
+      <link>https://sgchi.github.io/publication/gecco21/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://sgchi.github.io/publication/gecco21/</guid>
+      <description>&lt;p&gt;In &lt;em&gt;Proceedings of the Genetic and Evolutionary Computation Conference&lt;/em&gt; (GECCO), 2021&lt;/p&gt;
+&lt;!--Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

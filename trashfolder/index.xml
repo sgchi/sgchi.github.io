@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trashfolders | Seunggeun Chi</title>
+    <link>https://sgchi.github.io/trashfolder/</link>
+      <atom:link href="https://sgchi.github.io/trashfolder/index.xml" rel="self" type="application/rss+xml" />
+    <description>Trashfolders</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://sgchi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Trashfolders</title>
+      <link>https://sgchi.github.io/trashfolder/</link>
+    </image>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://sgchi.github.io/trashfolder/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sgchi.github.io/trashfolder/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accomplish&amp;shy;ments</title>
+      <link>https://sgchi.github.io/trashfolder/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sgchi.github.io/trashfolder/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://sgchi.github.io/trashfolder/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sgchi.github.io/trashfolder/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://sgchi.github.io/trashfolder/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sgchi.github.io/trashfolder/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://sgchi.github.io/trashfolder/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sgchi.github.io/trashfolder/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://sgchi.github.io/trashfolder/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sgchi.github.io/trashfolder/publications/</guid>
+      <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &amp;ndash;&amp;gt;&lt;/p&gt;
+&lt;!--Quickly discover relevant content by [filtering publications](./publication/).--&gt;
+&lt;!--
+  &lt;/div&gt;
+&lt;/div&gt;
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Popular Topics</title>
+      <link>https://sgchi.github.io/trashfolder/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sgchi.github.io/trashfolder/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://sgchi.github.io/trashfolder/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sgchi.github.io/trashfolder/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
