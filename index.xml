@@ -116,6 +116,17 @@
     </item>
     
     <item>
+      <title>Pose Relation Transformer: Refine Occlusions for Human Pose Estimation </title>
+      <link>https://sgchi.github.io/publication/icra23/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://sgchi.github.io/publication/icra23/</guid>
+      <description>&lt;p&gt;In &lt;em&gt;proceedings of the IEEE International Conference on Robotics and Automation&lt;/em&gt; (ICRA), 2023&lt;/p&gt;
+&lt;!--Create your slides in Markdown - click the *Slides* button to check out the example.--&gt;
+&lt;!--#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).--&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Evolutionary meta reinforcement learning for portfolio optimization</title>
       <link>https://sgchi.github.io/publication/gecco21/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
